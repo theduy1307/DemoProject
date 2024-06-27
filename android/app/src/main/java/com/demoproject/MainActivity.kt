@@ -1,4 +1,4 @@
-package com.demoproject
+package com.tinhhoa.demoproject
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
